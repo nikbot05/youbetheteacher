@@ -1,0 +1,1 @@
+9999999999{"name": "langcodes", "version": "3.3.0", "summary": "Tools for labeling human languages with IETF language tags", "platform": "", "requires_dist": ["language-data (>=1.1,<2.0); extra == \"data\""], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

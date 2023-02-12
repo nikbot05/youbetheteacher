@@ -1,0 +1,1 @@
+9999999999{"name": "simpful", "version": "2.9.0", "summary": "A user-friendly Python library for fuzzy logic", "platform": null, "requires_dist": ["numpy (>=1.12.0)", "scipy (>=1.0.0)", "requests"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

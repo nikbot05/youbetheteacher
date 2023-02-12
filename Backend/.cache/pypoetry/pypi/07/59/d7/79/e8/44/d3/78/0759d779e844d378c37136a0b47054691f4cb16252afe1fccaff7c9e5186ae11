@@ -1,0 +1,1 @@
+9999999999{"name": "srsly", "version": "2.4.5", "summary": "Modern high-performance serialization utilities for Python", "platform": null, "requires_dist": ["catalogue (<2.1.0,>=2.0.3)"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

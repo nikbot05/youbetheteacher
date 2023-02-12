@@ -1,0 +1,1 @@
+9999999999{"name": "blis", "version": "0.7.9", "summary": "The Blis BLAS-like linear algebra library, as a self-contained C-extension.", "platform": null, "requires_dist": ["numpy (>=1.15.0)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

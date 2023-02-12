@@ -1,0 +1,1 @@
+9999999999{"name": "fst-pso", "version": "1.8.1", "summary": "Fuzzy Self-Tuning PSO global optimization library", "platform": "", "requires_dist": ["numpy", "miniful"], "requires_python": "*", "files": [], "_cache_version": "1.0.0"}

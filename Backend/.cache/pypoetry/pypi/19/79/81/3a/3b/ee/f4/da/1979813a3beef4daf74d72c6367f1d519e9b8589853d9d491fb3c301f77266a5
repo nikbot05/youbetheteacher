@@ -1,0 +1,1 @@
+9999999999{"name": "spacy-legacy", "version": "3.0.12", "summary": "Legacy registered functions for spaCy backwards compatibility", "platform": null, "requires_dist": null, "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

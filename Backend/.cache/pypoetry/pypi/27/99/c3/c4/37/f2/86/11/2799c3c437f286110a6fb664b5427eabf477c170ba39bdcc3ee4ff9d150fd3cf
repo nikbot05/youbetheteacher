@@ -1,0 +1,1 @@
+9999999999{"name": "FuzzyTM", "version": "2.0.5", "summary": "A Python package for Fuzzy Topic Models", "platform": null, "requires_dist": ["numpy", "pandas", "scipy", "pyfume"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

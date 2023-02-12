@@ -1,0 +1,1 @@
+9999999999{"name": "pyFUME", "version": "0.2.25", "summary": "A Python package for fuzzy model estimation", "platform": null, "requires_dist": ["scipy", "numpy", "simpful", "fst-pso"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}
